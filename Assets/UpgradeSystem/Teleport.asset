@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3198cb116ad6469fa2efe93be2a7816, type: 3}
+  m_Name: Teleport
+  m_EditorClassIdentifier: 
+  upgradeName: Teleport
+  description: Teleport to the mouse position for a bit of time before returning
+    to your original postion again
+  icon: {fileID: 1138066226, guid: dc4b67b3c179a415287a1402a4e39577, type: 3}
+  category: 2
+  effect: 13
+  interactionType: 0
+  cost: 3
+  cooldownDuration: 5
